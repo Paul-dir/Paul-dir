@@ -33,6 +33,10 @@ Here are some of my favorite works 👇
 - 🧰 [**Garage Web**](https://github.com/Paul-dir/garage-web) – Employee dashboard for job status and work logs  
 
 ---
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Paul-dir&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-dir&layout=compact&theme=tokyonight)
+
 
 ### 📫 Connect With Me
 <p align="left">
@@ -41,6 +45,9 @@ Here are some of my favorite works 👇
 </p>
 
 ---
+![](https://github-readme-streak-stats.herokuapp.com/?user=Paul-dir&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=Paul-dir&theme=tokyonight)
+
 
 ⭐ **Thanks for visiting my GitHub!**  
 I’m always open to collaboration and learning opportunities.
