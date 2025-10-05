@@ -44,6 +44,9 @@ Here are some of my favorite works 👇
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Paul-dir&theme=tokyonight)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Paul-dir&theme=tokyonight)
 
+![Visitors](https://komarev.com/ghpvc/?username=Paul-dir&color=blue)
+
+
 ### 📫 Connect With Me
 <p align="left">
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
